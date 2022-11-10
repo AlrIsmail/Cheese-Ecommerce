@@ -1,5 +1,5 @@
 # Cheese-Ecommerce
-Application in which a user can shop for different type of chesses and then buy them.
+Application using java OOP approch to implement ecommerce functionalites.
 
 ## Home Page
-![Home page of the application](https://github.com/IsmailAlr/Cheese-Ecommerce/blob/main/src/Photo/home.png)
+<img src="https://github.com/IsmailAlr/Cheese-Ecommerce/blob/main/src/Photo/home.png" width="600" height="500" />
